@@ -4,7 +4,7 @@
 
 ## ダウンロード
 
-[最新版の無料版をダウンロード](https://github.com/youtotto/kintone-field-support-plugin/releases/latest)
+[最新版の無料版をダウンロード](https://github.com/youtotto/field-support/releases/latest)
 
 ## できること
 
